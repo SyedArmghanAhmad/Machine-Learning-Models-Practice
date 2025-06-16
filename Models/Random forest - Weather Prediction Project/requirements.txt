@@ -1,0 +1,8 @@
+opendatasets
+pandas
+numpy
+scikit-learn
+jovian
+ipykernel
+matplotlib
+seaborn
